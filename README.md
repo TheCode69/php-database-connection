@@ -1,4 +1,4 @@
-# php-database-connection
+# php-database-connection       
 Create a Connection: The mysqli constructor is used to create a connection to the MySQL database. It takes four parameters: hostname, username, password, and database name.
 
 Check the Connection: The if ($conn->connect_error) statement checks if the connection to the database was successful. If there is an error, the script dies and displays an error message.
