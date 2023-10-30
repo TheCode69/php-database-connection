@@ -10,7 +10,7 @@ Close the Connection: Finally, the $conn->close(); line is used to close the dat
 Make sure to handle your database credentials securely, for example, by storing them in a separate configuration file that is not accessible from the web. Also, consider using prepared statements or parameterized queries to prevent SQL injection attacks when interacting with the database.
 
 
-
+    
 
 
 
