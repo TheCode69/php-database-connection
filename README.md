@@ -7,7 +7,7 @@ Perform Database Operations: You can perform database operations (such as queryi
 
 Close the Connection: Finally, the $conn->close(); line is used to close the database connection when you are done with it. It's a good practice to close the connection after you've finished your database operations.
 
-Make sure to handle your database credentials securely, for example, by storing them in a separate configuration file that is not accessible from the web. Also, consider using prepared statements or parameterized queries to prevent SQL injection attacks when interacting with the database.
+Make sure to handle your database credentials securely, for example, by storing them in a separate configuration file that is not accessible from the web. Also, consider using prepared statements or parameterized queries to prevent SQL injection attacks when interacting with the database.     
 
 
     
